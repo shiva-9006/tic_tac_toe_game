@@ -1,1 +1,1 @@
-# tic_tac_toe_game
+Tic-Tac-Toe is a simple two-player strategy game played on a 3x3 grid. Players take turns marking a cell with either "X" or "O." The goal is to form a horizontal, vertical, or diagonal line of three identical marks before the opponent does. If all nine spaces are filled without a winner, the game ends in a draw. It is a classic game that helps develop logical thinking and strategy.
